@@ -1,6 +1,6 @@
 //********************************************************
 // program-0.c
-// Author: FirstName LastName
+// Author: Christopher Gassant
 // Class: COP 3223, Professor Parra
 // Purpose: This program prints a specific message to the
 // command line. The main purpose of this assignment is to
