@@ -7,7 +7,7 @@
 // check and see whether I can connect to the Codespaces Server.
 // Input: None
 //
-// Output: (to the command line) A breif Message
+// Output: (to the command line) A brief Message
 // //********************************************************
 
 
